@@ -1,6 +1,6 @@
 // 配置信息
 const CONFIG = {
-    totalImages: 10, // 图片总数
+    totalImages: 19, // 图片总数
     originalPath: 'image/', // 原图路径
     cutoutPath: 'imagek/', // 抠图路径
     fileExtension: '.png' // 图片扩展名
